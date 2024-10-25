@@ -1,0 +1,35 @@
+
+
+.main-header {
+display: flex;
+
+justify-content: space-between;
+align-items: center;
+
+padding: 30px 45px;
+
+background-color: rgba(81, 59, 59, 0.195);
+
+color: rgb(124, 46, 155);
+
+}
+
+.main-header ul {
+
+    display: flex;
+}
+
+li{
+    
+    margin-left:30px;
+
+}
+a{
+    color: rgb(149, 1, 122);
+
+    text-decoration: none;
+}
+
+
+
+
